@@ -1,0 +1,38 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+/* .video {
+    width: 30%; 
+} */
+
+
+
+.footer {
+    margin-top: 40px;
+}
+
+.back_button {
+    width: 100%;
+}
+
+
+
+
+
